@@ -1,9 +1,9 @@
 ---
 title: Gettysburg Address
-excerpt: ''
+excerpt: lorem ipsum lalala
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-14T16:01:36.628Z
+updated_at: 2019-03-14T16:02:36.441Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
