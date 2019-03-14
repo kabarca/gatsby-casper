@@ -1,11 +1,13 @@
 ---
 title: Gettysburg Address
+excerpt: ''
+date: '2019-03-13'
+path: ''
+updated_at: 2019-03-14T04:27:41.690Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
-date: '1863-11-19T10:00:00.000Z'
 draft: false
-updated_at: 2019-03-14T04:21:15.730Z
 ---
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
 
