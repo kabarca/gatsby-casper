@@ -3,7 +3,7 @@ title: Gettysburg Address
 excerpt: ''
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-14T04:27:41.690Z
+updated_at: 2019-03-14T15:18:02.596Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
@@ -16,7 +16,22 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 ```
-const bar = 'baz';
+async function status (workingDir) {
+   const git = require('simple-git/promise');
+
+   let statusSummary = null;
+   try {
+      statusSummary = await git(workingDir).status();
+   }
+   catch (e) {
+      // handle the error
+   }
+
+   return statusSummary;
+}
+
+// using the async function
+status(__dirname + '/some-repo').then(status => console.log(status));
 
 ```
 
