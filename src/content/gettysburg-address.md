@@ -3,7 +3,7 @@ title: Gettysburg Address
 excerpt: ''
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-14T15:18:02.596Z
+updated_at: 2019-03-14T15:43:31.607Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
@@ -29,9 +29,6 @@ async function status (workingDir) {
 
    return statusSummary;
 }
-
-// using the async function
-status(__dirname + '/some-repo').then(status => console.log(status));
 
 ```
 
