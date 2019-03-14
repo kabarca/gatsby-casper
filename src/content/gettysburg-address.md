@@ -1,9 +1,9 @@
 ---
-title: Gettysburg Address
+title: Gettysburg Address update
 excerpt: lorem ipsum lalala
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-14T16:02:36.441Z
+updated_at: 2019-03-14T16:23:52.041Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
@@ -12,7 +12,6 @@ draft: false
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
-
 But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 ```
@@ -29,7 +28,6 @@ async function status (workingDir) {
 
    return statusSummary;
 }
-
 ```
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.
