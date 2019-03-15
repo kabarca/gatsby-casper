@@ -1,9 +1,8 @@
 ---
-title: Gettysburg Address update
-excerpt: lorem ipsum lalala
+title: Gettysburg Address
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-15T20:17:02.188Z
+updated_at: 2019-03-15T20:21:19.435Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
