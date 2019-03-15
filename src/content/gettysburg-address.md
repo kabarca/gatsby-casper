@@ -3,7 +3,7 @@ title: Gettysburg Address update
 excerpt: lorem ipsum lalala
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-15T20:16:40.382Z
+updated_at: 2019-03-15T20:17:02.188Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
@@ -13,7 +13,7 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 
 > Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle\-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
 
-## But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
+#### But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 ```js
 const bar = 'baz'
