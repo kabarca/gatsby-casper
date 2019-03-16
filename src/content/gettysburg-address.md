@@ -1,9 +1,9 @@
 ---
-title: Gettysburg Address lalalala
+title: Gettysburg Address
 excerpt: ''
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-16T17:16:53.690Z
+updated_at: 2019-03-16T17:17:45.051Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
