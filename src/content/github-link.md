@@ -6,7 +6,7 @@ author: Ghost
 date: '2019-03-10T10:00:00.000Z'
 tags:
   - Source
-updated_at: 2019-03-18T20:41:53.161Z
+updated_at: 2019-03-18T20:44:00.096Z
 ---
 You'll find the `source` of this blog on GitHub. GitHub \- 
 
@@ -16,7 +16,7 @@ You'll find the `source` of this blog on GitHub. GitHub \-
 
 # gsdfgdf
 
-Clone this repo.
+`Clone this repo.`
 
 ```
 git clone https://github.com/scttcper/gatsby-casper.git --depth=1
