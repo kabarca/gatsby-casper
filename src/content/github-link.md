@@ -6,10 +6,9 @@ author: Ghost
 date: '2019-03-10T10:00:00.000Z'
 tags:
   - Source
-updated_at: 2019-03-18T20:20:21.328Z
+updated_at: 2019-03-18T20:41:53.161Z
 ---
-You'll find the source of this blog on GitHub. GitHub \- 
-
+You'll find the `source` of this blog on GitHub. GitHub \- 
 
 ### Getting Started
 
