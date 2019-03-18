@@ -1,9 +1,9 @@
 ---
-title: Gettysburg Address dsfdsfsd
+title: Gettysburg Address
 excerpt: ''
 date: '2019-03-13'
 path: ''
-updated_at: 2019-03-16T19:46:44.101Z
+updated_at: 2019-03-18T06:02:50.437Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
