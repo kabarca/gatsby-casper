@@ -1,7 +1,7 @@
 ---
 title: Gettysburg Address
 date: '2019-03-13'
-updated_at: 2019-03-18T16:28:45.389Z
+updated_at: 2019-03-19T05:15:42.328Z
 author: Another Author
 tags: []
 image: img/demo1.jpg
@@ -14,15 +14,6 @@ Fourscore and seven years ago our fathers brought forth on this continent, a new
 #### But, in a larger sense, we can not dedicate\-we can not consecrate\-we can not hallow\-this ground.
 
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. The world will little note, nor long remember what we say here, but it can never forget what they did here. 
-
-Lorem ipsum
-
-> another quoteerkrtk erkt
-
-* lorem
-* ipsum
-
-`lalalalal`
 
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us\-that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion\-that we here highly resolve that these dead shall not have died in vain\-that this nation, _under_.
 
