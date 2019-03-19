@@ -6,7 +6,7 @@ author: Ghost
 date: '2019-03-10T10:00:00.000Z'
 tags:
   - Source
-updated_at: 2019-03-18T21:48:39.137Z
+updated_at: 2019-03-19T00:29:28.304Z
 ---
 You'll find the `source` of this blog on GitHub. GitHub \- 
 
@@ -33,3 +33,9 @@ rm -rf .git && git init
 ```
 
 Now push to whatever repo you want\!
+
+1. something
+2. some
+
+- item 1
+- item 2
